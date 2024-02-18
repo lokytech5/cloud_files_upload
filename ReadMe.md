@@ -29,10 +29,10 @@ Basic command structure:
 ./cloud_files_upload.bash file1.txt
 
 ### Uploading a Single File
-./cloud_files_upload.bash /path/to/your/file.txt
+- ./cloud_files_upload.bash /path/to/your/file.txt
 
 ### Uploading Multiple Files (Advanced Feature)
-./cloud_files_upload.bash /path/to/first/file.txt /path/to/second/file.txt
+- ./cloud_files_upload.bash /path/to/first/file.txt /path/to/second/file.txt
 
 ## Troubleshooting
 - **Azure CLI Not Found**: Ensure Azure CLI is installed and in your system's PATH.
